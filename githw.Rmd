@@ -1,0 +1,17 @@
+---
+title: "githw"
+author: "Phoebe Lin"
+date: "2024-03-06"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+```
+
